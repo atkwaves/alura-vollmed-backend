@@ -1,3 +1,20 @@
+# 0.2.0
+[12/10/2024]
+
+### Novas funcionalidades
+* [#2](https://github.com/atkwaves/alura-vollmed-backend/issues/2) - Implementado o endpoint para cadastro de médicos.
+
+### Alterações na base de dados
+* V1__create-table-medicos.sql: Cria a tabela `medicos`.
+* V2__alter-table-medicos-add-column-telefone.sql: Adiciona a coluna `telefone` na tabela `medicos`.
+
+### Alterações de dependências
+* `spring-boot-starter-data-jpa`: N/A > 3.3.4
+* `spring-boot-starter-validation`: N/A > 3.3.4
+* `mysql-connector-j`: N/A > 8.3.0
+* `flyway-core`: N/A > 10.10.0
+* `flyway-mysql`: N/A > 10.10.0
+
 # 0.1.0
 [07/10/2024]
 
