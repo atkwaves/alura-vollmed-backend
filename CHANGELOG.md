@@ -1,3 +1,12 @@
+# 0.5.0
+[13/10/2024]
+
+### Novas funcionalidades
+* [#9](https://github.com/atkwaves/alura-vollmed-backend/issues/9) - Implementado o endpoint para exclusão lógica de médicos.
+
+### Alterações na base de dados
+* V3__alter-table-medicos-add-column-ativo.sql: Adiciona a coluna `ativo` na tabela `medicos`.
+
 # 0.4.0
 [13/10/2024]
 
