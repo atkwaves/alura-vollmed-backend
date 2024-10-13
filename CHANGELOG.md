@@ -1,3 +1,9 @@
+# 0.4.0
+[13/10/2024]
+
+### Novas funcionalidades
+* [#7](https://github.com/atkwaves/alura-vollmed-backend/issues/7) - Implementado o endpoint para atualização de dados cadastrais de médicos.
+
 # 0.3.0
 [12/10/2024]
 
