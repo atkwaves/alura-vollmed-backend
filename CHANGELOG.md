@@ -1,3 +1,12 @@
+# 0.6.0
+[14/10/2024]
+
+### Novas funcionalidades
+* [#11](https://github.com/atkwaves/alura-vollmed-backend/issues/11) - Implementado o endpoint para cadastro de pacientes.
+
+### Alterações na base de dados
+* V4__create-table-pacientes.sql: Cria a tabela `pacientes`.
+
 # 0.5.0
 [13/10/2024]
 
