@@ -1,3 +1,9 @@
+# 0.7.0
+[15/10/2024]
+
+### Novas funcionalidades
+* [#13](https://github.com/atkwaves/alura-vollmed-backend/issues/13) - Implementado o endpoint para listagem de pacientes.
+
 # 0.6.0
 [14/10/2024]
 
